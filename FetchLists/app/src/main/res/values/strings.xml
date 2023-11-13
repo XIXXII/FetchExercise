@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchLists</string>
+    <string name="click_the_list_to_view_items">Click the list to view items</string>
+</resources>
